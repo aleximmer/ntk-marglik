@@ -1,0 +1,17 @@
+method: baseline
+dataset: cifar10
+subset_size: 50000
+curv: ggn
+n_epochs: 300
+lr: 1e-1
+lr_min: 1e-8
+lr_hyp: 1e-1
+lr_hyp_min: 1e-1
+n_epochs_burnin: 10
+batch_size: 500
+marglik_batch_size: 500
+marglik_frequency: 5
+n_hypersteps_prior: 50
+prior_prec_init: 25.0
+download_data: False
+use_wandb: True

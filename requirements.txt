@@ -1,0 +1,14 @@
+pyaml
+numpy
+scipy
+matplotlib
+pandas
+ipykernel
+flake8
+black
+torch
+torchvision
+scikit-learn
+python-dotenv
+tueplots
+wandb

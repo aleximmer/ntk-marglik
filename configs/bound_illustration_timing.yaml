@@ -1,0 +1,17 @@
+seed: 1
+method: baseline
+dataset: mnist
+subset_size: 1000
+curv: ggn
+n_epochs: 5
+model: mininet
+lr: 1e-3
+lr_min: 1e-3
+lr_hyp: 1e-1
+lr_hyp_min: 1e-1
+n_epochs_burnin: 0
+batch_size: 1000
+marglik_batch_size: 1000
+marglik_frequency: 1
+n_hypersteps_prior: 1
+download_data: False
