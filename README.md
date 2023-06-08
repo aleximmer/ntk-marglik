@@ -2,7 +2,7 @@
 In the paper,  we derive lower bounds of the linearized Laplace approximation to the marginal likelihood that enable SGD-based hyperparameter optimization.
 The corresponding estimators and experiments are available in this repository.
 
-[**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels.**](arxiv-link)  
+[**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels.**](https://arxiv.org/abs/2306.03968)  
 Alexander Immer, Tycho F.A. van der Ouderaa, Mark van der Wilk, Gunnar Rätsch, Bernhard Schölkopf.
 In proceedings of ICML 2023.
 
