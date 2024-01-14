@@ -1,3 +1,6 @@
+[![Venue](https://img.shields.io/badge/venue-ICML_2023-darkblue)](https://proceedings.mlr.press/v202/immer23b.html)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.03968-b31b1b.svg)](https://arxiv.org/abs/2306.03968)
+
 # Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels (ICML'23)
 In the paper,  we derive lower bounds of the linearized Laplace approximation to the marginal likelihood that enable SGD-based hyperparameter optimization.
 The corresponding estimators and experiments are available in this repository.
